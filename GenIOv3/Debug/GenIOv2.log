@@ -1,0 +1,4 @@
+﻿  Codigo_HID_App.c
+D:\VisualStudioProjects\GenIOv3\Codigo_HID_App.c(274,9): warning C4101:  'ptr': variable local sin referencia
+D:\VisualStudioProjects\GenIOv3\Codigo_HID_App.c(472,10): warning C4098:  'main': función 'void' que devuelve un valor
+  GenIOv2.vcxproj -> D:\VisualStudioProjects\GenIOv3\Debug\GenIOv2.exe
